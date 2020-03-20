@@ -15,7 +15,11 @@ labels = []
 tags = {
     'media': 0,
     'us': 1,
-    'entertainment': 2
+    'politics': 2,
+    'world':3,
+    'entertainment':4 #,
+    #'sports':5,
+    #'health':6
 }
 
 words = []
@@ -30,7 +34,7 @@ with sqlite3.connect(base_of_links) as conn:
             sentences.append(normalize('NFKD', f1.read()))
 
 
-sentences_train, sentences_test, y_train, y_test = train_test_split(sentences, labels, test_size=0.25, random_state=1000)
+sentences_train, sentences_test, y_train, y_test = train_test_split(sentences, labels, test_size=0.2, random_state=1000)
 
 vectorizer = CountVectorizer(min_df=0, stop_words=stopwords.words('english'))
 vectorizer.fit(sentences_train)
