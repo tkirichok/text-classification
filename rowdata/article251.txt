@@ -1,0 +1,10 @@
+Scientists at Oxford University have developed a technology that they say could significantly speed up testing for COVID-19.
+The test, which has been validated with real clinical samples at Shenzen Luohou People's Hospital in China, is much faster than previous tests of RNA (ribonucleic acid, or genetic material).
+"The new test is much faster and does not need a complicated instrument,” the scientists said in a statement. “Previous viral RNA tests took 1.5 to 2 hours to give a result. The research team has developed a new test, based on a technique which is capable of giving results in just half an hour – over three times faster than the current method.”
+The team of researchers at the University of Oxford’s Engineering Science Department and the Oxford Suzhou Centre for Advanced Research (OSCAR), was led by Prof. Zhanfeng Cui and Prof. Wei Huang. “The beauty of this new test lies in the design of the viral detection that can specifically recognize SARS-CoV-2 (COVID-19) RNA and RNA fragments,” said Professor Wei Huang in the statement. “The test has built-in checks to prevent false positives or negatives and the results have been highly accurate.”
+The technology only requires a simple heat-block that maintains a constant temperature for RNA reverse transcription and DNA amplification, according to scientists. “This makes it potentially useful in rural area or community healthcare centers,” the scientists say.
+It is also very sensitive, according to the researchers, which could help identify infected patients sooner.
+The scientists are now developing an integrated device for testing at clinics, airports or the home.
+In a separate project, scientists in Australia have mapped immune responses from one of the country’s first novel coronavirus patients to show how the human body fights and recovers from COVID-19.
+As of Wednesday morning, more than 207,000 coronavirus cases have been diagnosed worldwide, over 7,000 of which are in the U.S. The disease has accounted for just over 8,000 deaths around the world, including 115 people in the U.S.
+James Rogers on Twitter @jamesjrogers
